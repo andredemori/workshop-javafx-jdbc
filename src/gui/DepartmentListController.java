@@ -59,7 +59,6 @@ public class DepartmentListController implements Initializable, DataChangeListen
 	@Override
 	public void initialize(URL url, ResourceBundle urb) {
 		initializeNodes();
-		
 	}
 
 	private void initializeNodes() {
